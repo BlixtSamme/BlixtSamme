@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlixtSamme
 - 🌱 I’m currently studying Master of Science in Computer Science and Engineering at Lunds Tekniska Högskola
-- 🐲 My interests involves thinking about, analyzing and consuming, but not necessary exercising, most forms of art.
+- 🐲 My interests involes analyzing, consuming and sometimes creating various forms of art.
 - 📫 How to reach me:
 -  - ✉️ Email: sa2446ho-s@student.lu.se
 -  - 🔌 Discord: Acemaster7#8059
